@@ -75,7 +75,7 @@ img {
 
 /* PARTE MIA */
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 419px) {
   .row {
     width: 100%;
     margin-top: 0;
