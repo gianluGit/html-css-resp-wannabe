@@ -1,0 +1,23 @@
+@media screen and (min-width: 421px) and (max-width: 1000px) {
+  .row {
+    width: 100%;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  #lezioni .row img {
+    width: 250px;
+  }
+
+  #why .row img {
+    padding: 0;
+    width: 300px;
+  }
+
+  .container.grey {
+    background-color: inherit;
+  }
+
+}
